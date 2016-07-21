@@ -4,11 +4,11 @@ project
 
 
 ### scala ###
-* ##lightbend [http://www.lightbend.com/]
-* ##scala-lang [http://scala-lang.org/]
-* ##play [https://playframework.com/]
-* ##sbt [http://www.scala-sbt.org/]
-* ##akka [http://akka.io/]
+* ## lightbend [http://www.lightbend.com/]
+* ## scala-lang [http://scala-lang.org/]
+* ## play [https://playframework.com/]
+* ## sbt [http://www.scala-sbt.org/]
+* ## akka [http://akka.io/]
 
 
 ##spark[http://spark.apache.org/] 
@@ -17,8 +17,8 @@ project
 ##JFinal java web开发框架
 
 ##java 安全框架
-* ##shiro[http://shiro.apache.org/]
-* ##spring security[http://projects.spring.io/spring-security/]
+* ## shiro[http://shiro.apache.org/]
+* ## spring security[http://projects.spring.io/spring-security/]
 * 
 
 ##webservice
