@@ -48,3 +48,5 @@ sonatype-oss-snapshots
 此外你还可以参考
 
 [http://afoo.me/posts/2014-11-05-how-make-sbt-jump-over-GFW.html](http://afoo.me/posts/2014-11-05-how-make-sbt-jump-over-GFW.html)]
+
+2. [http://blog.csdn.net/cloudeagle_bupt/article/details/50074935]
