@@ -1,0 +1,220 @@
+  Velocity 
+
+Velocity是一个基于java的模板引擎（template engine）。它允许任何人仅仅简单的使用模板语言（template language）来引用由java代码定义的对象。 当Velocity应用于web开发时，界面设计人员可以和java程序开发人员同步开发一个遵循MVC架构的web站点，也就是说，页面设计人员可以只关注页面的显示效果，而由java程序开发人员关注业务逻辑编码。Velocity将java代码从web页面中分离出来，这样为web站点的长期维护提供了便利，同时也为我们在JSP和PHP之外又提供了一种可选的方案。 Velocity的能力远不止web站点开发这个领域，例如，它可以从模板（template）产生SQL和PostScript、XML，它也可以被当作一个独立工具来产生源代码和报告，或者作为其他系统的集成组件使用。Velocity也可以为Turbine web开发架构提供模板服务（template service）。Velocity+Turbine提供一个模板服务的方式允许一个web应用以一个真正的MVC模型进行开发。 【VeloEclipse ：Velocity在Eclipse平台下的一个辅助开发插件】
+更多Velocity信息
+
+  FreeMarker 
+
+FreeMarker允许Java servlet保持图形设计同应用程序逻辑的分离，这是通过在模板中密封HTML完成的。模板用servlet提供的数据动态地生成 HTML。模板语言是强大的直观的，编译器速度快，输出接近静态HTML页面的速度。
+【FreeMarker Eclipse Plugin与FreeMarker IDE：Eclipse平台下的辅助开发工具】
+更多FreeMarker信息
+
+  Jamon 
+
+Jamon是一个Java文本模板引擎，用于生成动态HTML, XML,或任何基于文本的内容。它有一个丰富的功能集，支持封装，参数化，功能分解，表达逻辑重用。模板声明它们要求生成的参数，包括动态模板内容("fragments"),并被翻译成带有公有方法的Java类，它的符号反映了在模板中声明的参数。
+更多Jamon信息
+
+  JDynamiTe 
+
+JDynamiTe是一个把PHP模板技术移植到Java的一个开源项目。JDynamiTe模板用注释（BEGIN-END）标记动态块，用{}标记占位变量。JDynamiTe模板不包含任何逻辑，是“所见即所得”的模板技术，能够在普通的HTML浏览器或编辑器正确显示。
+更多JDynamiTe信息
+
+  JByte 
+
+JByte基于java的模板引擎。它通常用于把Jsp或Servlet转换成HTML,也可以转换成其它格式比如：XML,RTF,WML,e-mail text,原代码, 配置文件。
+更多JByte信息
+
+  Tea 
+
+Tea Trove 是一个组开放源代码项目(Tea,TeaServlet,Kettle,BeanDoc,Trove)的集合。由Walt Disney Internet小组开发，它这些技术成功运用在许多著名的网站上如ESPN.com, Movies.com, ABCNews.com 和 Disney.com. 其中的Tea是一个简单又强大的模板语言。它通常使用TeaServlet来产生动态页面。
+更多Tea信息
+
+  Jxp 
+
+Jxp（Java scripted page）包含一个Java脚本处理器和一个模板引擎，它支持同时具备文本和Java代码的模板文件。它包含一个剖析器和一个结构处理器，剖析器用于将脚本内容转化为特定的结构，结构处理器将处理这些特定的结构内容转换为常规代码，并通过API函数在产品中输出。
+更多Jxp信息
+
+  StringTemplate 
+
+StringTemplate一个可以生成原代码,web页面,emails和其它任何需要有格式的文本输出。StringTemplate已应用在为jGuru.com与antlr.org网站产生web页面。
+更多StringTemplate信息
+
+  Better Templates for Everybody 
+
+一个让数据知道如何插入到模板中适当的位置,模板可以从静态的文件或Java servlets来创建。
+更多Better Templates for Everybody信息
+
+  Canvas 
+
+Canvas是一个基于Groovy脚本语言模板生成器。它使用类似于Velocity Java API来绑定变量并允许在你的模板中使用Groovy脚本表达式。
+更多Canvas信息
+
+  Guglhupf XTE 
+
+Guglhupf XTE(XML Transformation Engine:XML转换引擎) 是一组用来转换XML文件的工具。它提供了一种比XSLT更简单的方式来转换XML。XTE不同于XSLT与Velocity这样的XML转换工具，它们都用特殊的语言来处理XML文件输入，然后把目标数据作为输出陈述.而XTE是以相反的方式进行它的模板是已经写在输出格式上的，而输入处理命令则是写在特殊的注释块中.它的模板文件采用Java代码编写.
+更多Guglhupf XTE信息
+
+  WebMacro 
+
+WebMacro是一种Java开源的模板语言。对于表现web页面，它比JSP,PHP,与ASP效率更高。WebMacro是一些大网站后台的页面生成技术。
+更多WebMacro信息
+
+  Viento 
+
+Viento是一个用Java开发的模板语言。它在语句构成上很多情形下有点类于Velocity 。
+更多Viento信息
+
+  Jostraca 
+
+Jostraca是一个代码生成工具包。它的模板可使用类似于JSP的语法来编写。CodeGenClipse是一个把该代码生成器集成到Eclipse v3.1.2+中的插件。
+更多Jostraca信息
+
+  LSP 
+
+LSP是一种基于XML技术的高级Web模板语言。LSP提供强大和易于使用视图逻辑，但能够保持商业逻辑与模板相脱离。LSP直接编译成Java字节码以便提高执行效率。
+更多LSP信息
+
+  JLoom 
+
+JLoom是一个采用类似于JSP语法的模板引擎。参数可以是任何Java类型，甚至是泛型(generic)。JLoom还提供一个Eclipse插件来辅助开发。
+
+更多JLoom信息
+
+  MiniTemplator 
+
+MiniTemplator是一个简洁的模板引擎。定义模板文件中的变量和块的语法非常简单，支持块嵌套块。对于MiniTemplator的使用，其提供良好、完整文档支持。
+更多MiniTemplator信息
+
+  CommonTemplate 
+
+CommonTemplate是一个模板引擎，用于解释CTL模板语言，可在多种运行时环境下使用；其主要目标是作为JSP，ASP.Net等的替代方案，以保证用简单的语法，良好的结构，不混杂业务逻辑的方式书写页面；也可以作为动态文本生成工具，生成HTML、XML、Mail、Java源代码或其它文本等。
+二、CommonTemplate特性:
+1.只有一个语法规则：$指令名{表达式}，使用更简单，更统一。
+2.支持语法外套，可以在Dreamwear下正常使用WYSWYG，并且语法外套也是可扩展的。
+3.微核理念，高度可扩展，除了核心API，其它逻辑相关处理都是外置的，包括所有指令及表达式，标准的 for, if, else 等指令，以及 + - * / 等表达式，均可被替换。
+4.使用主控迭代器模式替代传统的被动访问器模式,引擎只负责将模板解析成指令树，其它所有处理均由扩展指令自身完成，给扩展指令以最大的控制权。(类似于StAX与SAX的区别)
+5.对已有不可变类(String,Number,Date等)，属性扩展，采用open class思想。(类似javascript的prototype)
+6.支持宏引用及模板继承，更有利于模板组件化。
+7.内置的国际化支持，国际化信息处理更方便。
+8.多种优化措施，性能更优：
+    (1) 采用针对特定语法写的低级专有DFA解析器解析，试验表明比使用通用抽象的BNF语法体系解析(Java中一般用JavaCC或AntLR)要快，因为BNF为了通用，考虑了太多因素，导致其效率降低，当然，BNF在处理复杂语法(比如要解析C/C++/Java等语法时)很有优势，但CommonTemplate的语法非常简单且统一，所以使用专有的低级解析器是比较好的选择。
+    (2) 解析结果被表示成一个线程安全(不变类级)的指令树，单个实例可以在多线程中任意重复使用，避免使用重复解析或克隆等性能损耗。
+    (3) 解析结果可以在内存中缓存起来，以减少解析次数及IO量，并且缓存策略是可扩展的。(已内置实现了NONE, STRONG, SOFT, FIFO, LRU, MRU, OSCACHE, EHCACHE等缓存策略)
+更多CommonTemplate信息
+
+  RTFTemplate 
+
+RTFTemplate是一个RTF to RTF引擎。它能够将RTF模板与来自Java对象的数据相结合，生成新的RTF文档。
+更多RTFTemplate信息
+
+  Jtpl 
+
+Jtpl是一个用于Java Servlet的模板引擎，利用它能够实现HTML代码与Java代码分开存储。与其它拥有复杂语法的模板引擎相比，Jtpl使用一种非常简单的模板语法。所有处理过程（循环，判断等逻辑）和变量都在Java代码中实现。便于更好地将布局与代码相分离，而且不需要学习新的复杂语法。
+更多Jtpl信息
+
+  VMC Injection 
+
+VMC Injection是一个Java开源模板引擎，利用它可以很容易将任何Java数据结构（如：JDBBC、POJO、HashMap等）注入到文本（HTML/XML等）模板中。
+更多VMC Injection信息
+
+  Japid 
+
+Japid-Play是一个拥有与Java硬编码相同性能和速度的Java板模板引擎。模板语法与Play! Web开发框架模板语言相似。Japid是一个通用的模板引擎，适用于任何Java应用程序来渲染任意Java对象。此外它还提供一个专门用于Play!框架的适配器。Japid主要目标是用在基于Play!开发并且拥有大流量的网站中。为了达到这个目标，Japid将基于html的标签文件转换成干净的Java源代码以便让渲染工作能够达到接近采用Java硬编码的速度。Japid其它高级特性包括：拥有类似于site-mesh布局功能，可以使用标签(Tag)，模板可以有层级关系，内容缓存，服务器端Include等。使用这些高级功能并不会降低Japid的性能。
+更多Japid信息
+
+  Hapax 
+
+Hapax是一个简单，但强大的文本模板引擎，适用来在 Java代码中构建文本输出。模板语法和Google的ctemplate相似。
+Hapax.png
+更多Hapax信息
+
+  Xtempore 
+
+Xtempore是一个轻级量、模块化、强大基于XML的模板语言和工具集。用于将一个Java对象模型结合XML文档模板生成另一个新的XML文档。
+收录时间：2010-12-22 23:45:25
+更多Xtempore信息
+
+  Thymeleaf 
+
+Thymeleaf是一个XML/XHTML/HTML5模板引擎，用于展示数据和生成基于文本的文件。它还提供一个模块用于与Spring MVC集成作为视图层使用。
+Thymeleaf.jpg
+收录时间：2011-04-19 20:44:32
+更多Thymeleaf信息
+
+  smarty4j 
+
+smarty4j是一个smarty for java的模板引擎，该引擎是将smarty模板从php上移植过来，需要asm-3.0.jar。
+收录时间：2011-04-21 11:22:00
+更多smarty4j信息
+
+  Google XML Pages 
+
+GXP是一个模板系统用于生成XML/SGML标签（大部分经常是HTML）。
+支持多种语言（包括Java&JavaScript; C++开发中）。
+支持运行期重新编译。
+编译时类型检查和部分标记验证。
+类型自动识别，减少了XSS漏洞的机会
+易于使用的国际化支持
+方便的参数传递/模块化系统
+非常轻量的运行系统
+收录时间：2011-04-30 21:25:48
+更多Google XML Pages信息
+
+  Cambridge  
+
+Cambridge是一个用于在Java程序中生成html/xml标签的模板引擎。 它拥有高度可扩展和高性能的特点。
+Cambridge模板是纯html/xml文档，因此可以直接在浏览器中查看或在其它Html编辑器中可视化编辑而不会产生错误。
+
+Cambridge可以在独立的Java程序中使用，也可以与Servlets和其它流行Web框架如：Spring Mvc、Struts, Play Framework、JAX-RS等集成使用。
+
+收录时间：2011-05-29 10:16:42
+更多Cambridge 信息
+
+  Aluminum 
+
+Aluminum是一个强大和灵活的模板引擎。它可用于生成文档，但还可以用于做更多复杂的任务。Aluminum可以单独使用，也可以在servlet环境中使用。
+收录时间：2011-06-15 08:54:19
+更多Aluminum信息
+
+  Django模板语言的JAVA移植版 Jangod 
+
+Jangod是一个Java模板引擎，一种语法类似于Django的模板语言。为了凸显JAVA特性，故把“D”拉到后面，取名Jangod。
+内建常用标签：
+
+Extends 当前模板扩展的父模板
+Block 模板继承的可替代单元
+Include 载入其它模板作为本模板的一个片段
+If…else 条件判断逻辑求值
+For 按特定的顺序循环一个数据集合
+Cycle 轮流输出一组变量的其中一个
+Ifchanged 检查变量当前值与上次存储的值是否发生变化
+Set 把一个语法运算结果保存到一个新的变量中
+内建过滤器：
+
+Default 设置空值的默认输出内容
+Contain 集合或字符串是否包含某个元素或子串
+Length 取集合元素个数或字符串长度
+Reverse 倒序排列集合元素（如果集合有序的）
+Random 从集合中随机取一个元素
+Equal 逻辑相等判断
+And 逻辑与运算
+Or 逻辑或运算
+Not 真假值取反
+Date 格式化时间变量
+Abs 取变量的绝对值
+Divisible 判断变量是否被整除
+Add 进行变量的加法运算
+Multiply 进行变量的乘法运算
+Divide 进行变量的除法运算
+Escape html特殊字符转义
+Lower 把字符串都转换成小写。
+Upper 把字符串都转换成大写
+Truncate 按一定长度截取字符串
+Cut 去除字符串中的特定子串
+引擎特点：
+
+智能的强容错模板解析
+巧妙使用过滤器处理各种复杂的语法运算
+各种特性的数据容器
+自定义标签和过滤器
+Django是一个开放源代码的Web应用框架，由Python写成。采用了MVC的软件设计模式，即模型M，视图V和控制器C。
