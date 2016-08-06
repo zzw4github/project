@@ -7,6 +7,8 @@ project
 *  lightbend [http://www.lightbend.com/]
 *  scala-lang [http://scala-lang.org/]
 *  play [https://playframework.com/]
+*  sinatra web [http://www.scalatra.org/]
+*  lift [http://liftweb.net/]
 *  sbt [http://www.scala-sbt.org/]
 *  akka [http://akka.io/]
 
@@ -58,7 +60,7 @@ project
 * lang [http://www.ruby-lang.org/zh_cn/]
       [http://www.ruby-lang.org/en/]
 * ror [http://rubyonrails.org/]
-* 
+* sinatra[http://www.sinatrarb.com/intro.html] web
 
 ##管理工具
 
