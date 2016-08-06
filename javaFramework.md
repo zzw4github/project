@@ -1,10 +1,10 @@
-***搜索引擎
+### 搜索引擎
 1. compass [http://www.compass-project.org/]
 2. mg4j [http://mg4j.di.unimi.it/]
 3. solr[http://lucene.apache.org/solr/]
 
 
-*** web 
+### web 
 1. sling [http://sling.apache.org/]
 2. ofbiz [http://ofbiz.apache.org/]
 
