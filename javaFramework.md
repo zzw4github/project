@@ -1,7 +1,9 @@
 ### 搜索引擎
 1. compass [http://www.compass-project.org/]
 2. mg4j [http://mg4j.di.unimi.it/]
-3. solr[http://lucene.apache.org/solr/]
+3. solr [http://lucene.apache.org/solr/]
+4. elasticsearch [https://www.elastic.co/products/elasticsearch]
+5. lucene [http://lucene.apache.org/]
 
 
 ### web 
@@ -46,6 +48,11 @@
 * comm-logging [http://commons.apache.org/proper/commons-logging/]
 * jul
 * 大总结[http://my.oschina.net/pingpangkuangmo/blog/410224]
+* flume log server [http://flume.apache.org/]
+* zLogFabric [http://www.zlogfabric.com/]
+* darks-logs [https://github.com/liulhdarks/darks-logs]
+* logstash [https://www.elastic.co/downloads/logstash]
+* gclogviewer 
 
 ##功能性能测试
 * jmeter[https://jmeter.apache.org/]
