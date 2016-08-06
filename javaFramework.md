@@ -1,3 +1,18 @@
+### apache catagory
+* [https://projects.apache.org/projects.html?category]
+
+### 
+* kafak [http://kafka.apache.org/]
+* spark [http://spark.apache.org/] 
+* hadoop [http://hadoop.apache.org/]
+* hive [http://hive.apache.org/]
+* storm [http://storm.apache.org/]
+* hbase [http://hbase.apache.org/]
+* zookepper [https://zookeeper.apache.org/]
+* pig [http://pig.apache.org/]
+* cocoon Apache Cocoon is a Spring-based (since version 2.2 of Cocoon) framework built around the concepts of separation of concerns and component-based development http://cocoon.apache.org/
+
+
 ### 搜索引擎
 1. compass [http://www.compass-project.org/]
 2. mg4j [http://mg4j.di.unimi.it/]
@@ -5,6 +20,51 @@
 4. elasticsearch [https://www.elastic.co/products/elasticsearch]
 5. lucene [http://lucene.apache.org/]
 
+### template
+1. velocity [http://velocity.apache.org/]
+2. freemark [http://freemarker.org/]
+3. 
+
+### persisitence
+* datanucleus [http://www.datanucleus.org/]
+* torque [http://db.apache.org/torque/torque-4.0/index.html]
+* spring jdbc
+* spring data
+* 
+### database
+* cassandra [http://cassandra.apache.org/]
+* couchdb [http://couchdb.apache.org/]
+### cache
+* redis [http://redis.io/]
+* ehcache [http://www.ehcache.org/]
+* memcached [http://memcached.org/]
+* cacheonix distribute [http://www.cacheonix.org/]
+* ASimpleCache android [https://github.com/yangfuhai/ASimpleCache]
+* voldemort distributed key-value storage system [http://www.project-voldemort.com/voldemort/]
+* jbosscache [http://jbosscache.jboss.org]
+* 
+
+### util
+* jodd [http://jodd.org/]
+* guava [https://github.com/google/guava]
+
+### web framework
+* vaadin [https://vaadin.com/home]
+* struts [http://struts.apache.org/]
+* springmvc [http://projects.spring.io/spring-framework/]
+* ninja [http://www.ninjaframework.org/]
+* madvoc [http://jodd.org/doc/madvoc/index.html]
+* jhipster [http://jhipster.github.io/]
+* dropwizard [http://www.dropwizard.io/1.0.0/docs/]
+
+### web
+1. ver.x [http://vertx.io/]
+2. netty [http://netty.io/]
+3. 
+
+### jdbc
+1. hibernate [http://hibernate.org/orm/]
+2. mabatis [http://www.mybatis.org/mybatis-3/]
 
 ### web 
 1. sling [http://sling.apache.org/]
@@ -22,9 +82,6 @@
 
 ### job schedule. 
 1. [http://www.quartz-scheduler.org/]
-
-##spark
-1. [http://spark.apache.org/] 
 
 ##JPress java版wrodpress
 1. [http://jpress.io/]
@@ -89,6 +146,7 @@
 ##Tutorial
 1. javase[http://docs.oracle.com/javase/tutorial/]
 
+File system events library for Java [http://jnotify.sourceforge.net/]
 OSWorkflow for workflow.
 OSCache
 Clickstream to track users.
