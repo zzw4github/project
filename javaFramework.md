@@ -146,6 +146,9 @@
 ##Tutorial
 1. javase[http://docs.oracle.com/javase/tutorial/]
 
+### workflow
+- [http://www.activiti.org "activiti"](activiti)
+- [http://www.jbpm.org "jbpm"](activiti)
 File system events library for Java [http://jnotify.sourceforge.net/]
 OSWorkflow for workflow.
 OSCache
