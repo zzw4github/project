@@ -30,10 +30,11 @@
 * torque [http://db.apache.org/torque/torque-4.0/index.html]
 * spring jdbc
 * spring data
-* 
+*   
+
 ### database
 * cassandra [http://cassandra.apache.org/]
-* couchdb [http://couchdb.apache.org/]
+* couchdb [http://couchdb.apache.org/]  
 ### cache
 * redis [http://redis.io/]
 * ehcache [http://www.ehcache.org/]
