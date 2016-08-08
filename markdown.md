@@ -1,3 +1,3 @@
-- [x]  [mastering-markdown](https://guides.github.com/features/mastering-markdown/ "mastering-markdown")
-- [ ]  [markdown](http://daringfireball.net/projects/markdown/ "markdown")
+- [x]  [markdown](http://daringfireball.net/projects/markdown/ "markdown")
+- [ ]  [mastering-markdown](https://guides.github.com/features/mastering-markdown/ "mastering-markdown")
 - [ ]  [github markdown"](https://help.github.com/articles/basic-writing-and-formatting-syntax/ "github markdown")
